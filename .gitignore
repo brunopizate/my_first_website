@@ -1,3 +1,5 @@
 .upm/
 node_modules/
+.replit
 *.json
+*.js
